@@ -1,0 +1,1 @@
+{"model": "sign_22", "threshold": 0.45, "label_list": ["background", "castle", "friendship", "guard", "purchase", "seesaw", "trade"]}
